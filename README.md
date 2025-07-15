@@ -1,16 +1,26 @@
-# ex_aula_09
+# ex_aula_09 - NAVEGAÇÂO ENTRE TELAS
 
-A new Flutter project.
+Exercícios em Dart/Flutter - PROGRAMAÇÃO MOBILE
 
-## Getting Started
+Implementação das segunites Funcionalidades:
 
-This project is a starting point for a Flutter application.
+1. Verificação na tela de Login que permita ao
+usuário “logar” apenas se o campo de usuário não
+estiver em branco e a senha for ‘admin’.
+Exibir ensagem de erro. Sugestões:
+Text com erro
+showDialog + AlertDialog
 
-A few resources to get you started if this is your first Flutter project:
+2. Construir uma interface de boas vindas como
+Dashboard, incluindo o “usuario” informado por
+parâmetro.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Solicitar confirmação do usuário quando o mesmo
+tocar no botão “Sair” da BottomNav.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. No dashboard, abaixo das boas vindas,
+exibir uma sugestão aleatória de disciplina
+para ser estudada.
+
+5. Adaptar o código da aula para utilizar o
+pacote go_router.
