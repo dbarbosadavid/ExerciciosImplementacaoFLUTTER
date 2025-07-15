@@ -1,4 +1,4 @@
-# ex_aula_09 - NAVEGAÇÂO ENTRE TELAS
+# ex_aula_09 - NAVEGAÇÃO ENTRE TELAS
 
 Exercícios em Dart/Flutter - PROGRAMAÇÃO MOBILE
 
